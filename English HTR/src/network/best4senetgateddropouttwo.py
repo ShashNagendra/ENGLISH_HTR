@@ -899,7 +899,7 @@ def shashankbest4senetgateddropouttwo(input_size, d_model):
 
 
 
-def shashankbest4senetgateddropouttwo(input_size, d_model):
+def shashankRec(input_size, d_model):
     """
     Proosed model 1
     """
